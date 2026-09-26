@@ -1,0 +1,5 @@
+{
+  "base_url": "https://nas.example.com",
+  "remote_folder": "/reports/short-video",
+  "ca_bundle": true
+}

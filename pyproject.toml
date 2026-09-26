@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ops-report-delivery"
+version = "0.1.0"
+description = "Validated spreadsheet preparation and guarded report delivery"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = ["openpyxl>=3.1.5,<4", "requests>=2.32,<3", "tzdata>=2025.2"]
+
+[project.scripts]
+report-delivery = "report_delivery.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "运营报表整理与交付"
+  short_description: "整理短视频运营报表，核验九列数据与格式，并按明确授权交付"
+  default_prompt: "使用 $report-delivery 运行离线演示，并说明核验结果和交付状态。"

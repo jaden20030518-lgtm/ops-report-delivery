@@ -1,0 +1,9 @@
+{
+  "status": "demo_completed",
+  "rows": 3,
+  "zero_rows_retained": 1,
+  "network_accessed": false,
+  "delivery_method": "local copy with SHA256 verification",
+  "manifest": "run/manifest.json",
+  "delivered_file": "local-delivery/202601短视频数据源.xlsx"
+}
