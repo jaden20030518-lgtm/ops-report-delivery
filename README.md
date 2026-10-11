@@ -6,7 +6,7 @@
 
 [**查看飞书一页介绍 ↗**](https://my.feishu.cn/wiki/PNBqwLeyriJtiBkpQircS1XmnKc)
 
-![业务规模、单次运行结果和工作流程](assets/hr-overview.png)
+![业务规模、单次运行结果和工作流程](assets/project-overview.png)
 
 ## 我的贡献
 
